@@ -1,0 +1,750 @@
+Product_ID,Product,Brand,Sale_Price,Category_ID,Supplier_ID
+1,HDPE Pipes,Jain Irrigation Systems Ltd.,501.51,16,35
+2,Flusing Cistern,Kohler India Corporation Pvt. Ltd.,358.11,14,61
+3,SWR Pipes,Ashirvad Pipes,235.05,2,26
+4,SWR Pipes,Prince Pipes,423.89,10,32
+5,Ball Valves,Prince Pipes,210.2,5,65
+6,UPVC Pipes,Ashirvad Pipes,702.12,14,108
+7,Steel Wire Reinforced Pipes,Ashirvad Pipes,340.27,7,20
+8,Riser Pipes,Cera Sanitaryware Ltd.,463.27,5,116
+9,Bathroom Accessories Pipes,Kohler India Corporation Pvt. Ltd.,598.07,6,182
+10,Underground Pipes,Astral Pipes,304.12,4,172
+11,Suction Pipes,Prince Pipes,606.35,13,173
+12,UPVC Pipes,Finolex Industries,611.12,5,136
+13,Steel Wire Reinforced Pipes,Prince Pipes,990.1,1,157
+14,Riser Pipes,Cera Sanitaryware Ltd.,441.58,13,81
+15,Duct Pipes,Finolex Industries,945.5,3,89
+16,Underground Pipes,Astral Pipes,269.44,6,30
+17,Underground Pipes,Finolex Industries,913.77,8,55
+18,Suction Pipes,Supreme Industries Ltd.,189.54,4,103
+19,Riser Pipes,Cera Sanitaryware Ltd.,484.96,10,19
+20,Duct Pipes,Supreme Industries Ltd.,644.44,14,69
+21,Ball Valves,Astral Pipes,235.59,6,168
+22,CPVC Pipes,Prince Pipes,975.53,9,166
+23,Bathroom Accessories Pipes,Parryware,884.56,12,122
+24,Duct Pipes,Supreme Industries Ltd.,990.78,12,14
+25,Duct Pipes,Prince Pipes,530.59,3,33
+26,Flusing Cistern,Kohler India Corporation Pvt. Ltd.,241.48,16,198
+27,Riser Pipes,Jaquar Group,118.89,12,100
+28,Duct Pipes,Prince Pipes,646.84,13,30
+29,Duct Pipes,Prince Pipes,387.88,1,96
+30,Ball Valves,Astral Pipes,694.83,7,23
+31,HDPE Pipes,Finolex Industries,252.96,1,14
+32,Ball Valves,Astral Pipes,718.43,6,95
+33,HDPE Pipes,Astral Pipes,397.66,7,32
+34,Duct Pipes,Supreme Industries Ltd.,423.6,16,127
+35,UPVC Pipes,Prince Pipes,628.0,10,36
+36,Pressure Pipes,Supreme Industries Ltd.,952.08,12,124
+37,PTMP Taps and Fittings Pipes,Jaquar Group,175.12,1,190
+38,Suction Pipes,Supreme Industries Ltd.,870.48,5,125
+39,SWR Pipes,Prince Pipes,239.98,2,92
+40,Flusing Cistern,Jaquar Group,530.6,11,103
+41,Casing Pipes,Supreme Industries Ltd.,709.92,6,194
+42,SWR Pipes,Prince Pipes,541.27,11,49
+43,HDPE Pipes,Supreme Industries Ltd.,536.8,3,117
+44,Flusing Cistern,Jaquar Group,219.14,12,169
+45,Bathroom Accessories Pipes,Hindware,944.27,13,4
+46,Underground Pipes,Supreme Industries Ltd.,924.1,12,199
+47,Flusing Cistern,Hindware,416.96,2,9
+48,Steel Wire Reinforced Pipes,Prince Pipes,924.14,14,60
+49,Ball Valves,Prince Pipes,407.91,5,3
+50,Ball Valves,Supreme Industries Ltd.,146.07,8,93
+51,Ball Valves,Astral Pipes,835.27,1,78
+52,Riser Pipes,Kohler India Corporation Pvt. Ltd.,210.56,13,47
+53,CPVC Pipes,Supreme Pipes,325.88,15,31
+54,Steel Wire Reinforced Pipes,Ashirvad Pipes,740.21,11,196
+55,Bathroom Accessories Pipes,Parryware,758.42,4,146
+56,Flusing Cistern,Hindware,549.07,16,10
+57,Pressure Pipes,Finolex Industries,753.01,14,115
+58,Riser Pipes,Kohler India Corporation Pvt. Ltd.,523.01,6,90
+59,HDPE Pipes,Supreme Industries Ltd.,521.52,4,91
+60,Flusing Cistern,Jaquar Group,997.17,11,122
+61,Steel Wire Reinforced Pipes,Finolex Industries,255.55,14,15
+62,Riser Pipes,Kohler India Corporation Pvt. Ltd.,337.68,15,41
+63,SWR Pipes,Supreme Industries Ltd.,453.54,4,12
+64,Flusing Cistern,Hindware,185.55,1,37
+65,Ball Valves,Prince Pipes,105.28,14,188
+66,CPVC Pipes,Ashirvad Pipes,794.06,11,105
+67,PTMP Taps and Fittings Pipes,Cera Sanitaryware Ltd.,586.91,2,20
+68,UPVC Pipes,Ashirvad Pipes,871.14,16,131
+69,Pressure Pipes,Supreme Industries Ltd.,456.59,12,196
+70,Underground Pipes,Astral Pipes,869.57,9,25
+71,PTMP Taps and Fittings Pipes,Cera Sanitaryware Ltd.,912.43,14,178
+72,Bathroom Accessories Pipes,Cera Sanitaryware Ltd.,840.89,10,198
+73,HDPE Pipes,Finolex Industries,950.85,10,81
+74,Suction Pipes,Prince Pipes,625.31,1,79
+75,Flusing Cistern,Hindware,188.54,11,54
+76,Steel Wire Reinforced Pipes,Jain Irrigation Systems Ltd.,443.1,16,184
+77,HDPE Pipes,Astral Pipes,149.37,13,36
+78,Suction Pipes,Ashirvad Pipes,719.79,7,144
+79,Ball Valves,Supreme Industries Ltd.,657.96,9,180
+80,Flusing Cistern,Kohler India Corporation Pvt. Ltd.,955.44,10,54
+81,Riser Pipes,Jaquar Group,991.25,10,91
+82,Pressure Pipes,Finolex Industries,200.55,14,2
+83,UPVC Pipes,Prince Pipes,994.01,11,132
+84,UPVC Pipes,Ashirvad Pipes,319.38,3,2
+85,Underground Pipes,Supreme Industries Ltd.,959.0,13,8
+86,Ball Valves,Ashirvad Pipes,912.02,2,189
+87,Ball Valves,Prince Pipes,309.27,9,162
+88,SWR Pipes,Astral Pipes,415.2,15,50
+89,Flusing Cistern,Cera Sanitaryware Ltd.,175.92,10,16
+90,HDPE Pipes,Jain Irrigation Systems Ltd.,287.01,5,73
+91,Steel Wire Reinforced Pipes,Ashirvad Pipes,327.86,9,134
+92,Ball Valves,Prince Pipes,205.72,7,115
+93,Flusing Cistern,Hindware,828.81,10,125
+94,Underground Pipes,Astral Pipes,582.83,6,111
+95,Steel Wire Reinforced Pipes,Ashirvad Pipes,218.79,4,17
+96,CPVC Pipes,Supreme Pipes,518.93,1,59
+97,Flusing Cistern,Parryware,780.14,1,10
+98,Steel Wire Reinforced Pipes,Prince Pipes,928.41,5,188
+99,Ball Valves,Prince Pipes,578.62,2,150
+100,Ball Valves,Prince Pipes,127.68,3,58
+101,Riser Pipes,Cera Sanitaryware Ltd.,856.0,4,133
+102,Steel Wire Reinforced Pipes,Prince Pipes,970.16,5,84
+103,CPVC Pipes,Ashirvad Pipes,897.01,16,16
+104,Riser Pipes,Cera Sanitaryware Ltd.,431.58,7,92
+105,Casing Pipes,Ashirvad Pipes,666.06,3,139
+106,Bathroom Accessories Pipes,Hindware,999.36,1,112
+107,HDPE Pipes,Jain Irrigation Systems Ltd.,758.61,4,191
+108,Pressure Pipes,Prince Pipes,808.44,13,199
+109,Suction Pipes,Ashirvad Pipes,367.71,9,76
+110,PTMP Taps and Fittings Pipes,Jaquar Group,601.33,11,48
+111,Bathroom Accessories Pipes,Hindware,335.32,9,198
+112,Duct Pipes,Ashirvad Pipes,712.7,9,1
+113,Ball Valves,Prince Pipes,195.11,8,72
+114,Bathroom Accessories Pipes,Parryware,912.72,11,169
+115,CPVC Pipes,Supreme Pipes,718.08,14,55
+116,Flusing Cistern,Parryware,230.75,14,23
+117,Ball Valves,Finolex Industries,805.53,16,86
+118,SWR Pipes,Finolex Industries,356.6,4,34
+119,Steel Wire Reinforced Pipes,Supreme Industries Ltd.,206.9,13,142
+120,Underground Pipes,Supreme Industries Ltd.,420.35,15,184
+121,Duct Pipes,Supreme Industries Ltd.,812.84,11,94
+122,Ball Valves,Finolex Industries,346.75,9,11
+123,UPVC Pipes,Finolex Industries,768.97,8,39
+124,Casing Pipes,Supreme Industries Ltd.,612.29,5,133
+125,PTMP Taps and Fittings Pipes,Cera Sanitaryware Ltd.,137.37,15,78
+126,Riser Pipes,Cera Sanitaryware Ltd.,579.01,12,67
+127,SWR Pipes,Finolex Industries,347.58,12,189
+128,UPVC Pipes,Prince Pipes,288.15,16,9
+129,Flusing Cistern,Jaquar Group,739.01,11,163
+130,SWR Pipes,Astral Pipes,813.06,8,155
+131,Suction Pipes,Prince Pipes,765.6,9,49
+132,CPVC Pipes,Astral Pipes,627.24,7,14
+133,Riser Pipes,Jaquar Group,692.71,7,15
+134,Duct Pipes,Prince Pipes,511.22,2,89
+135,UPVC Pipes,Supreme Pipes,632.78,2,198
+136,Suction Pipes,Finolex Industries,745.68,4,23
+137,Ball Valves,Prince Pipes,766.09,8,122
+138,SWR Pipes,Supreme Industries Ltd.,792.34,9,151
+139,Riser Pipes,Jaquar Group,429.09,16,10
+140,HDPE Pipes,Jain Irrigation Systems Ltd.,664.82,4,182
+141,HDPE Pipes,Jain Irrigation Systems Ltd.,228.94,1,175
+142,HDPE Pipes,Finolex Industries,187.31,6,195
+143,HDPE Pipes,Prince Pipes,634.58,5,70
+144,Duct Pipes,Jain Irrigation Systems Ltd.,579.19,9,178
+145,Underground Pipes,Jain Irrigation Systems Ltd.,646.2,4,25
+146,HDPE Pipes,Supreme Industries Ltd.,666.83,16,4
+147,Flusing Cistern,Kohler India Corporation Pvt. Ltd.,767.08,1,20
+148,Bathroom Accessories Pipes,Parryware,163.65,9,190
+149,Steel Wire Reinforced Pipes,Ashirvad Pipes,311.11,8,118
+150,Casing Pipes,Jain Irrigation Systems Ltd.,430.77,6,97
+151,Flusing Cistern,Parryware,241.19,14,99
+152,Flusing Cistern,Cera Sanitaryware Ltd.,542.14,13,169
+153,Duct Pipes,Ashirvad Pipes,440.54,1,108
+154,PTMP Taps and Fittings Pipes,Parryware,915.0,12,171
+155,CPVC Pipes,Astral Pipes,123.9,8,128
+156,CPVC Pipes,Finolex Industries,842.93,6,180
+157,Pressure Pipes,Prince Pipes,137.76,15,137
+158,Bathroom Accessories Pipes,Parryware,171.87,7,120
+159,Duct Pipes,Supreme Industries Ltd.,663.4,5,189
+160,Riser Pipes,Jaquar Group,754.59,6,96
+161,Bathroom Accessories Pipes,Hindware,341.94,8,193
+162,SWR Pipes,Finolex Industries,962.52,10,17
+163,Suction Pipes,Supreme Industries Ltd.,946.47,11,190
+164,Suction Pipes,Supreme Industries Ltd.,113.09,10,151
+165,SWR Pipes,Astral Pipes,328.11,7,35
+166,HDPE Pipes,Astral Pipes,360.98,7,44
+167,SWR Pipes,Astral Pipes,375.64,16,136
+168,HDPE Pipes,Jain Irrigation Systems Ltd.,841.69,13,151
+169,Flusing Cistern,Hindware,869.11,3,91
+170,Ball Valves,Prince Pipes,203.19,13,199
+171,CPVC Pipes,Astral Pipes,310.25,12,89
+172,Underground Pipes,Finolex Industries,895.24,14,178
+173,Casing Pipes,Supreme Industries Ltd.,480.12,4,140
+174,Underground Pipes,Supreme Industries Ltd.,737.76,3,60
+175,PTMP Taps and Fittings Pipes,Cera Sanitaryware Ltd.,816.99,4,65
+176,Ball Valves,Finolex Industries,746.77,10,188
+177,Flusing Cistern,Jaquar Group,389.42,2,86
+178,Riser Pipes,Jaquar Group,268.27,8,175
+179,SWR Pipes,Supreme Industries Ltd.,842.73,3,15
+180,CPVC Pipes,Supreme Pipes,656.97,10,142
+181,Pressure Pipes,Finolex Industries,704.16,2,128
+182,HDPE Pipes,Supreme Industries Ltd.,651.02,4,2
+183,Pressure Pipes,Jain Irrigation Systems Ltd.,410.91,5,20
+184,SWR Pipes,Astral Pipes,654.29,8,119
+185,CPVC Pipes,Supreme Pipes,967.73,4,145
+186,Ball Valves,Supreme Industries Ltd.,558.83,15,91
+187,SWR Pipes,Ashirvad Pipes,725.32,6,81
+188,CPVC Pipes,Supreme Pipes,929.41,2,83
+189,Riser Pipes,Jaquar Group,351.99,13,95
+190,SWR Pipes,Ashirvad Pipes,857.64,2,71
+191,Bathroom Accessories Pipes,Kohler India Corporation Pvt. Ltd.,767.9,14,190
+192,CPVC Pipes,Astral Pipes,273.04,4,8
+193,Riser Pipes,Cera Sanitaryware Ltd.,220.54,2,44
+194,Pressure Pipes,Supreme Industries Ltd.,817.4,5,177
+195,Casing Pipes,Prince Pipes,549.78,9,75
+196,Steel Wire Reinforced Pipes,Finolex Industries,700.81,5,110
+197,Underground Pipes,Jain Irrigation Systems Ltd.,570.79,6,136
+198,Duct Pipes,Ashirvad Pipes,587.74,9,157
+199,SWR Pipes,Prince Pipes,748.2,8,157
+200,UPVC Pipes,Finolex Industries,797.35,14,183
+201,PTMP Taps and Fittings Pipes,Hindware,405.96,2,200
+202,Flusing Cistern,Parryware,732.51,14,176
+203,Steel Wire Reinforced Pipes,Jain Irrigation Systems Ltd.,233.8,2,101
+204,Steel Wire Reinforced Pipes,Finolex Industries,875.68,2,128
+205,Underground Pipes,Finolex Industries,628.69,7,105
+206,SWR Pipes,Astral Pipes,809.08,1,53
+207,Underground Pipes,Finolex Industries,599.47,8,73
+208,UPVC Pipes,Prince Pipes,264.24,9,75
+209,Pressure Pipes,Jain Irrigation Systems Ltd.,799.89,1,70
+210,Underground Pipes,Finolex Industries,673.98,15,133
+211,Pressure Pipes,Finolex Industries,825.59,8,124
+212,PTMP Taps and Fittings Pipes,Hindware,613.21,9,38
+213,Bathroom Accessories Pipes,Jaquar Group,867.08,7,93
+214,Casing Pipes,Supreme Industries Ltd.,945.58,14,105
+215,CPVC Pipes,Prince Pipes,819.58,4,179
+216,Suction Pipes,Jain Irrigation Systems Ltd.,417.71,10,16
+217,Ball Valves,Prince Pipes,972.5,15,10
+218,Pressure Pipes,Supreme Industries Ltd.,774.7,10,115
+219,Bathroom Accessories Pipes,Kohler India Corporation Pvt. Ltd.,154.65,13,130
+220,Duct Pipes,Jain Irrigation Systems Ltd.,631.07,11,154
+221,Flusing Cistern,Kohler India Corporation Pvt. Ltd.,794.99,13,116
+222,Pressure Pipes,Supreme Industries Ltd.,774.56,13,179
+223,Flusing Cistern,Jaquar Group,278.63,12,29
+224,HDPE Pipes,Prince Pipes,486.19,8,122
+225,Suction Pipes,Supreme Industries Ltd.,338.26,1,197
+226,Suction Pipes,Prince Pipes,166.23,1,59
+227,Bathroom Accessories Pipes,Jaquar Group,723.14,10,7
+228,UPVC Pipes,Prince Pipes,737.47,16,200
+229,Duct Pipes,Prince Pipes,237.23,10,101
+230,Steel Wire Reinforced Pipes,Ashirvad Pipes,944.16,7,43
+231,Riser Pipes,Jaquar Group,906.86,12,107
+232,HDPE Pipes,Astral Pipes,764.67,5,13
+233,CPVC Pipes,Prince Pipes,490.35,4,70
+234,Flusing Cistern,Jaquar Group,793.73,8,103
+235,UPVC Pipes,Supreme Pipes,811.5,15,58
+236,SWR Pipes,Prince Pipes,709.04,4,131
+237,Steel Wire Reinforced Pipes,Jain Irrigation Systems Ltd.,739.2,6,144
+238,Steel Wire Reinforced Pipes,Prince Pipes,972.12,8,162
+239,HDPE Pipes,Prince Pipes,449.72,2,29
+240,Bathroom Accessories Pipes,Hindware,472.09,3,18
+241,HDPE Pipes,Jain Irrigation Systems Ltd.,141.99,4,22
+242,UPVC Pipes,Prince Pipes,186.76,4,161
+243,Ball Valves,Prince Pipes,112.45,1,121
+244,Bathroom Accessories Pipes,Hindware,949.15,16,11
+245,Underground Pipes,Finolex Industries,872.47,4,172
+246,Underground Pipes,Astral Pipes,347.39,16,151
+247,Riser Pipes,Kohler India Corporation Pvt. Ltd.,580.19,6,37
+248,PTMP Taps and Fittings Pipes,Parryware,470.39,13,195
+249,CPVC Pipes,Ashirvad Pipes,955.98,5,119
+250,SWR Pipes,Prince Pipes,330.41,12,46
+251,Pressure Pipes,Supreme Industries Ltd.,479.88,5,88
+252,Steel Wire Reinforced Pipes,Ashirvad Pipes,600.76,3,93
+253,Bathroom Accessories Pipes,Hindware,465.99,4,117
+254,CPVC Pipes,Supreme Pipes,461.56,16,140
+255,Underground Pipes,Finolex Industries,987.73,5,146
+256,Pressure Pipes,Supreme Industries Ltd.,423.49,16,104
+257,HDPE Pipes,Prince Pipes,757.08,2,103
+258,Pressure Pipes,Prince Pipes,761.35,8,154
+259,HDPE Pipes,Prince Pipes,914.9,3,155
+260,Pressure Pipes,Prince Pipes,307.3,4,2
+261,HDPE Pipes,Jain Irrigation Systems Ltd.,407.5,1,88
+262,Flusing Cistern,Jaquar Group,698.64,3,76
+263,PTMP Taps and Fittings Pipes,Jaquar Group,449.31,12,106
+264,Steel Wire Reinforced Pipes,Prince Pipes,600.61,12,28
+265,HDPE Pipes,Prince Pipes,407.78,13,107
+266,CPVC Pipes,Supreme Pipes,781.07,1,102
+267,Duct Pipes,Finolex Industries,520.79,13,47
+268,Ball Valves,Astral Pipes,873.75,16,55
+269,Casing Pipes,Finolex Industries,928.64,12,157
+270,Riser Pipes,Cera Sanitaryware Ltd.,681.48,7,140
+271,Duct Pipes,Finolex Industries,602.49,16,40
+272,PTMP Taps and Fittings Pipes,Kohler India Corporation Pvt. Ltd.,162.41,5,173
+273,HDPE Pipes,Astral Pipes,819.82,2,16
+274,Bathroom Accessories Pipes,Hindware,854.81,9,20
+275,Pressure Pipes,Ashirvad Pipes,736.95,5,162
+276,Ball Valves,Supreme Industries Ltd.,723.58,12,76
+277,Flusing Cistern,Cera Sanitaryware Ltd.,554.77,6,154
+278,Steel Wire Reinforced Pipes,Supreme Industries Ltd.,414.41,11,40
+279,PTMP Taps and Fittings Pipes,Jaquar Group,548.42,11,193
+280,Riser Pipes,Jaquar Group,279.7,6,43
+281,Flusing Cistern,Cera Sanitaryware Ltd.,247.32,15,194
+282,CPVC Pipes,Finolex Industries,637.25,2,39
+283,UPVC Pipes,Apollo Pipes,468.45,12,104
+284,UPVC Pipes,Supreme Pipes,705.48,12,133
+285,CPVC Pipes,Ashirvad Pipes,945.61,4,49
+286,Suction Pipes,Ashirvad Pipes,653.9,11,156
+287,Duct Pipes,Ashirvad Pipes,894.99,14,154
+288,Bathroom Accessories Pipes,Jaquar Group,449.61,4,1
+289,Steel Wire Reinforced Pipes,Jain Irrigation Systems Ltd.,286.43,10,37
+290,Bathroom Accessories Pipes,Parryware,716.67,4,108
+291,UPVC Pipes,Finolex Industries,538.82,7,159
+292,PTMP Taps and Fittings Pipes,Parryware,853.66,14,89
+293,Casing Pipes,Supreme Industries Ltd.,833.17,3,69
+294,Suction Pipes,Jain Irrigation Systems Ltd.,611.55,15,156
+295,Ball Valves,Prince Pipes,322.98,12,167
+296,Underground Pipes,Jain Irrigation Systems Ltd.,456.01,12,171
+297,Steel Wire Reinforced Pipes,Jain Irrigation Systems Ltd.,906.91,3,166
+298,Ball Valves,Finolex Industries,837.61,4,13
+299,Flusing Cistern,Jaquar Group,620.71,13,159
+300,Suction Pipes,Prince Pipes,433.34,6,39
+301,PTMP Taps and Fittings Pipes,Kohler India Corporation Pvt. Ltd.,491.51,1,113
+302,Riser Pipes,Cera Sanitaryware Ltd.,238.8,15,197
+303,Suction Pipes,Prince Pipes,685.1,12,170
+304,Pressure Pipes,Prince Pipes,730.64,5,159
+305,Bathroom Accessories Pipes,Parryware,118.67,15,66
+306,Bathroom Accessories Pipes,Parryware,609.48,12,183
+307,Casing Pipes,Finolex Industries,780.01,3,81
+308,HDPE Pipes,Astral Pipes,698.5,2,200
+309,HDPE Pipes,Jain Irrigation Systems Ltd.,245.19,7,159
+310,Steel Wire Reinforced Pipes,Ashirvad Pipes,394.58,12,25
+311,Casing Pipes,Jain Irrigation Systems Ltd.,680.42,9,24
+312,SWR Pipes,Astral Pipes,122.93,16,115
+313,Duct Pipes,Ashirvad Pipes,238.39,9,68
+314,Casing Pipes,Prince Pipes,135.48,9,64
+315,UPVC Pipes,Finolex Industries,895.46,1,79
+316,CPVC Pipes,Finolex Industries,883.22,11,74
+317,Bathroom Accessories Pipes,Jaquar Group,564.58,5,137
+318,HDPE Pipes,Finolex Industries,884.16,12,136
+319,Casing Pipes,Finolex Industries,243.72,9,48
+320,PTMP Taps and Fittings Pipes,Jaquar Group,256.22,16,149
+321,CPVC Pipes,Finolex Industries,583.47,12,91
+322,Flusing Cistern,Jaquar Group,115.88,6,94
+323,Casing Pipes,Finolex Industries,299.03,6,163
+324,Bathroom Accessories Pipes,Kohler India Corporation Pvt. Ltd.,255.96,7,118
+325,Bathroom Accessories Pipes,Jaquar Group,532.3,6,89
+326,Casing Pipes,Prince Pipes,917.42,2,116
+327,Ball Valves,Ashirvad Pipes,958.96,6,16
+328,Ball Valves,Prince Pipes,999.55,1,14
+329,Ball Valves,Finolex Industries,894.65,6,16
+330,CPVC Pipes,Astral Pipes,268.09,16,169
+331,PTMP Taps and Fittings Pipes,Hindware,212.73,14,60
+332,UPVC Pipes,Finolex Industries,136.94,3,127
+333,Flusing Cistern,Kohler India Corporation Pvt. Ltd.,654.24,12,140
+334,Steel Wire Reinforced Pipes,Ashirvad Pipes,540.18,15,146
+335,Flusing Cistern,Parryware,816.98,16,44
+336,Casing Pipes,Jain Irrigation Systems Ltd.,196.95,6,40
+337,CPVC Pipes,Prince Pipes,347.86,14,19
+338,Suction Pipes,Jain Irrigation Systems Ltd.,813.75,13,109
+339,Riser Pipes,Kohler India Corporation Pvt. Ltd.,139.2,13,75
+340,HDPE Pipes,Astral Pipes,494.43,14,75
+341,Underground Pipes,Supreme Industries Ltd.,878.99,1,109
+342,SWR Pipes,Supreme Industries Ltd.,224.6,11,68
+343,Duct Pipes,Prince Pipes,187.19,11,188
+344,UPVC Pipes,Ashirvad Pipes,453.29,6,56
+345,Underground Pipes,Astral Pipes,708.72,2,101
+346,Underground Pipes,Finolex Industries,660.69,1,87
+347,SWR Pipes,Supreme Industries Ltd.,312.22,7,43
+348,Suction Pipes,Finolex Industries,898.85,3,45
+349,HDPE Pipes,Supreme Industries Ltd.,150.77,6,164
+350,Riser Pipes,Jaquar Group,342.19,2,31
+351,Steel Wire Reinforced Pipes,Supreme Industries Ltd.,284.77,11,111
+352,Pressure Pipes,Jain Irrigation Systems Ltd.,790.32,7,146
+353,Duct Pipes,Prince Pipes,876.08,2,180
+354,Casing Pipes,Jain Irrigation Systems Ltd.,324.77,4,172
+355,PTMP Taps and Fittings Pipes,Hindware,583.56,6,140
+356,Ball Valves,Finolex Industries,323.44,9,62
+357,Riser Pipes,Kohler India Corporation Pvt. Ltd.,263.74,8,66
+358,Casing Pipes,Prince Pipes,390.76,1,58
+359,Suction Pipes,Finolex Industries,798.93,13,140
+360,SWR Pipes,Prince Pipes,465.27,12,93
+361,HDPE Pipes,Prince Pipes,522.74,12,107
+362,PTMP Taps and Fittings Pipes,Jaquar Group,743.89,8,162
+363,SWR Pipes,Supreme Industries Ltd.,629.88,11,124
+364,Flusing Cistern,Jaquar Group,432.65,10,49
+365,CPVC Pipes,Supreme Pipes,644.1,14,51
+366,Duct Pipes,Prince Pipes,418.59,9,132
+367,Underground Pipes,Supreme Industries Ltd.,870.18,7,76
+368,Steel Wire Reinforced Pipes,Ashirvad Pipes,123.44,9,56
+369,Flusing Cistern,Kohler India Corporation Pvt. Ltd.,242.88,11,56
+370,Riser Pipes,Cera Sanitaryware Ltd.,374.02,4,110
+371,Duct Pipes,Supreme Industries Ltd.,695.8,5,71
+372,Pressure Pipes,Supreme Industries Ltd.,235.43,4,107
+373,Duct Pipes,Finolex Industries,784.99,12,138
+374,PTMP Taps and Fittings Pipes,Jaquar Group,818.26,2,27
+375,Suction Pipes,Ashirvad Pipes,108.0,12,152
+376,Casing Pipes,Supreme Industries Ltd.,442.88,6,15
+377,Flusing Cistern,Hindware,949.79,1,34
+378,Ball Valves,Prince Pipes,895.99,5,64
+379,CPVC Pipes,Astral Pipes,401.3,10,27
+380,Suction Pipes,Jain Irrigation Systems Ltd.,534.47,9,126
+381,Flusing Cistern,Parryware,997.71,6,153
+382,CPVC Pipes,Prince Pipes,328.73,3,177
+383,Duct Pipes,Finolex Industries,664.86,4,4
+384,Steel Wire Reinforced Pipes,Supreme Industries Ltd.,848.66,1,185
+385,Steel Wire Reinforced Pipes,Finolex Industries,825.3,12,192
+386,Underground Pipes,Supreme Industries Ltd.,220.82,13,23
+387,Casing Pipes,Jain Irrigation Systems Ltd.,734.49,7,126
+388,UPVC Pipes,Ashirvad Pipes,548.24,4,189
+389,HDPE Pipes,Astral Pipes,962.85,11,38
+390,PTMP Taps and Fittings Pipes,Parryware,875.94,10,68
+391,CPVC Pipes,Prince Pipes,731.97,3,197
+392,HDPE Pipes,Jain Irrigation Systems Ltd.,271.7,11,86
+393,Flusing Cistern,Hindware,752.32,6,85
+394,PTMP Taps and Fittings Pipes,Hindware,596.4,5,148
+395,Riser Pipes,Kohler India Corporation Pvt. Ltd.,160.14,14,159
+396,Pressure Pipes,Supreme Industries Ltd.,822.43,15,43
+397,Riser Pipes,Kohler India Corporation Pvt. Ltd.,803.89,6,162
+398,Bathroom Accessories Pipes,Cera Sanitaryware Ltd.,190.25,9,189
+399,HDPE Pipes,Astral Pipes,904.98,13,181
+400,Flusing Cistern,Hindware,906.93,9,119
+401,CPVC Pipes,Ashirvad Pipes,137.36,10,36
+402,Bathroom Accessories Pipes,Kohler India Corporation Pvt. Ltd.,642.75,2,149
+403,PTMP Taps and Fittings Pipes,Kohler India Corporation Pvt. Ltd.,128.34,10,98
+404,HDPE Pipes,Supreme Industries Ltd.,945.73,4,107
+405,CPVC Pipes,Supreme Pipes,503.96,3,5
+406,SWR Pipes,Finolex Industries,691.67,13,97
+407,Flusing Cistern,Kohler India Corporation Pvt. Ltd.,926.57,15,175
+408,UPVC Pipes,Supreme Pipes,499.54,15,89
+409,Underground Pipes,Supreme Industries Ltd.,866.03,3,59
+410,Suction Pipes,Jain Irrigation Systems Ltd.,629.99,5,51
+411,Casing Pipes,Ashirvad Pipes,175.25,4,78
+412,Riser Pipes,Jaquar Group,645.03,8,25
+413,Pressure Pipes,Ashirvad Pipes,998.61,4,171
+414,Pressure Pipes,Supreme Industries Ltd.,190.94,10,170
+415,Ball Valves,Finolex Industries,140.71,16,35
+416,UPVC Pipes,Finolex Industries,212.66,3,65
+417,CPVC Pipes,Supreme Pipes,152.58,3,14
+418,Flusing Cistern,Jaquar Group,134.31,14,17
+419,Bathroom Accessories Pipes,Jaquar Group,858.28,2,156
+420,PTMP Taps and Fittings Pipes,Jaquar Group,979.51,9,129
+421,Duct Pipes,Jain Irrigation Systems Ltd.,246.2,8,5
+422,Casing Pipes,Finolex Industries,153.47,14,181
+423,HDPE Pipes,Prince Pipes,455.8,2,79
+424,UPVC Pipes,Ashirvad Pipes,493.41,12,49
+425,Duct Pipes,Supreme Industries Ltd.,446.32,13,82
+426,HDPE Pipes,Astral Pipes,384.01,7,89
+427,CPVC Pipes,Ashirvad Pipes,504.03,7,28
+428,UPVC Pipes,Apollo Pipes,337.3,8,41
+429,Riser Pipes,Cera Sanitaryware Ltd.,330.28,3,150
+430,Bathroom Accessories Pipes,Hindware,761.92,1,66
+431,SWR Pipes,Astral Pipes,742.83,15,15
+432,Flusing Cistern,Hindware,477.29,13,199
+433,Flusing Cistern,Kohler India Corporation Pvt. Ltd.,427.61,5,150
+434,SWR Pipes,Ashirvad Pipes,847.25,14,182
+435,CPVC Pipes,Astral Pipes,462.3,4,7
+436,PTMP Taps and Fittings Pipes,Kohler India Corporation Pvt. Ltd.,417.06,9,27
+437,Bathroom Accessories Pipes,Kohler India Corporation Pvt. Ltd.,507.08,11,87
+438,Pressure Pipes,Supreme Industries Ltd.,829.1,8,134
+439,Steel Wire Reinforced Pipes,Prince Pipes,412.87,15,191
+440,Underground Pipes,Astral Pipes,714.46,4,10
+441,Suction Pipes,Prince Pipes,564.72,14,63
+442,Duct Pipes,Supreme Industries Ltd.,392.36,1,33
+443,Flusing Cistern,Parryware,770.48,15,199
+444,Pressure Pipes,Finolex Industries,523.07,7,50
+445,Casing Pipes,Finolex Industries,533.66,10,9
+446,Riser Pipes,Kohler India Corporation Pvt. Ltd.,522.6,16,156
+447,Bathroom Accessories Pipes,Jaquar Group,930.47,5,3
+448,UPVC Pipes,Ashirvad Pipes,614.53,5,43
+449,Pressure Pipes,Finolex Industries,448.4,2,78
+450,Underground Pipes,Jain Irrigation Systems Ltd.,146.49,2,85
+451,Pressure Pipes,Jain Irrigation Systems Ltd.,320.27,3,56
+452,Ball Valves,Ashirvad Pipes,575.31,10,79
+453,Duct Pipes,Supreme Industries Ltd.,919.1,2,37
+454,SWR Pipes,Prince Pipes,968.94,2,186
+455,CPVC Pipes,Supreme Pipes,388.73,8,117
+456,Bathroom Accessories Pipes,Cera Sanitaryware Ltd.,522.33,15,125
+457,Casing Pipes,Prince Pipes,102.27,16,165
+458,Ball Valves,Finolex Industries,521.64,6,9
+459,Ball Valves,Ashirvad Pipes,972.27,5,148
+460,Steel Wire Reinforced Pipes,Prince Pipes,599.49,14,11
+461,Casing Pipes,Finolex Industries,581.19,12,39
+462,PTMP Taps and Fittings Pipes,Kohler India Corporation Pvt. Ltd.,716.7,7,198
+463,Casing Pipes,Finolex Industries,786.96,1,106
+464,Flusing Cistern,Kohler India Corporation Pvt. Ltd.,166.31,12,8
+465,Bathroom Accessories Pipes,Kohler India Corporation Pvt. Ltd.,584.56,4,64
+466,Suction Pipes,Finolex Industries,322.86,3,79
+467,Suction Pipes,Finolex Industries,175.3,14,32
+468,Suction Pipes,Jain Irrigation Systems Ltd.,972.01,9,24
+469,Ball Valves,Prince Pipes,543.53,5,178
+470,UPVC Pipes,Apollo Pipes,860.78,4,187
+471,UPVC Pipes,Prince Pipes,636.02,3,95
+472,CPVC Pipes,Finolex Industries,822.55,9,178
+473,UPVC Pipes,Prince Pipes,810.18,8,174
+474,Pressure Pipes,Prince Pipes,681.13,16,51
+475,Flusing Cistern,Hindware,766.72,7,123
+476,Riser Pipes,Cera Sanitaryware Ltd.,535.2,3,194
+477,UPVC Pipes,Ashirvad Pipes,594.23,15,54
+478,Duct Pipes,Jain Irrigation Systems Ltd.,178.78,10,132
+479,SWR Pipes,Ashirvad Pipes,999.62,6,183
+480,Riser Pipes,Jaquar Group,323.99,15,83
+481,Casing Pipes,Ashirvad Pipes,901.9,3,87
+482,CPVC Pipes,Ashirvad Pipes,469.37,15,195
+483,SWR Pipes,Supreme Industries Ltd.,291.54,10,99
+484,PTMP Taps and Fittings Pipes,Jaquar Group,645.5,11,148
+485,Steel Wire Reinforced Pipes,Ashirvad Pipes,779.85,6,80
+486,Ball Valves,Finolex Industries,199.97,6,28
+487,Ball Valves,Ashirvad Pipes,150.7,8,190
+488,Riser Pipes,Kohler India Corporation Pvt. Ltd.,560.73,2,12
+489,Underground Pipes,Finolex Industries,506.06,15,193
+490,CPVC Pipes,Prince Pipes,338.29,1,101
+491,Riser Pipes,Jaquar Group,453.86,1,112
+492,Duct Pipes,Ashirvad Pipes,364.86,12,16
+493,Underground Pipes,Supreme Industries Ltd.,486.02,14,51
+494,HDPE Pipes,Finolex Industries,534.68,3,193
+495,HDPE Pipes,Prince Pipes,274.92,4,35
+496,PTMP Taps and Fittings Pipes,Jaquar Group,706.82,16,71
+497,Underground Pipes,Supreme Industries Ltd.,250.29,12,139
+498,Underground Pipes,Astral Pipes,537.79,2,200
+499,Suction Pipes,Supreme Industries Ltd.,813.87,4,170
+500,PTMP Taps and Fittings Pipes,Kohler India Corporation Pvt. Ltd.,720.99,3,62
+501,Pressure Pipes,Supreme Industries Ltd.,872.5,15,132
+502,PTMP Taps and Fittings Pipes,Cera Sanitaryware Ltd.,838.33,15,138
+503,Duct Pipes,Ashirvad Pipes,580.26,7,168
+504,HDPE Pipes,Finolex Industries,623.65,13,1
+505,Flusing Cistern,Hindware,214.4,12,146
+506,Bathroom Accessories Pipes,Jaquar Group,210.72,10,84
+507,Duct Pipes,Jain Irrigation Systems Ltd.,626.7,15,198
+508,Underground Pipes,Jain Irrigation Systems Ltd.,946.73,3,80
+509,PTMP Taps and Fittings Pipes,Hindware,531.77,7,162
+510,Underground Pipes,Prince Pipes,806.06,6,125
+511,Casing Pipes,Supreme Industries Ltd.,560.2,9,181
+512,Underground Pipes,Supreme Industries Ltd.,322.47,7,112
+513,Suction Pipes,Ashirvad Pipes,351.86,1,126
+514,Bathroom Accessories Pipes,Cera Sanitaryware Ltd.,496.87,9,14
+515,Steel Wire Reinforced Pipes,Supreme Industries Ltd.,168.67,10,119
+516,Bathroom Accessories Pipes,Kohler India Corporation Pvt. Ltd.,463.36,13,141
+517,Bathroom Accessories Pipes,Parryware,552.55,11,192
+518,Ball Valves,Prince Pipes,688.81,5,189
+519,Underground Pipes,Finolex Industries,609.58,2,32
+520,Pressure Pipes,Jain Irrigation Systems Ltd.,399.06,4,26
+521,Ball Valves,Ashirvad Pipes,765.19,10,75
+522,Ball Valves,Prince Pipes,807.38,16,82
+523,UPVC Pipes,Ashirvad Pipes,431.48,6,164
+524,HDPE Pipes,Astral Pipes,814.65,15,111
+525,SWR Pipes,Supreme Industries Ltd.,100.18,12,127
+526,Riser Pipes,Kohler India Corporation Pvt. Ltd.,576.2,10,1
+527,SWR Pipes,Supreme Industries Ltd.,947.23,6,37
+528,Casing Pipes,Finolex Industries,971.04,15,117
+529,SWR Pipes,Finolex Industries,278.81,9,29
+530,Pressure Pipes,Supreme Industries Ltd.,987.76,2,145
+531,Riser Pipes,Kohler India Corporation Pvt. Ltd.,498.13,13,28
+532,Riser Pipes,Cera Sanitaryware Ltd.,626.05,3,60
+533,UPVC Pipes,Finolex Industries,131.15,15,197
+534,SWR Pipes,Supreme Industries Ltd.,629.2,12,36
+535,Casing Pipes,Prince Pipes,326.89,3,101
+536,SWR Pipes,Prince Pipes,594.48,11,192
+537,Flusing Cistern,Kohler India Corporation Pvt. Ltd.,526.94,9,179
+538,SWR Pipes,Prince Pipes,259.44,14,167
+539,HDPE Pipes,Astral Pipes,264.47,9,126
+540,Flusing Cistern,Jaquar Group,610.01,10,18
+541,Steel Wire Reinforced Pipes,Supreme Industries Ltd.,606.67,8,46
+542,Flusing Cistern,Kohler India Corporation Pvt. Ltd.,893.26,7,153
+543,Ball Valves,Astral Pipes,446.67,15,121
+544,PTMP Taps and Fittings Pipes,Kohler India Corporation Pvt. Ltd.,351.73,2,84
+545,CPVC Pipes,Finolex Industries,306.58,8,28
+546,Duct Pipes,Jain Irrigation Systems Ltd.,797.79,11,111
+547,Duct Pipes,Prince Pipes,255.59,6,147
+548,CPVC Pipes,Prince Pipes,863.3,16,186
+549,Riser Pipes,Kohler India Corporation Pvt. Ltd.,462.1,9,37
+550,PTMP Taps and Fittings Pipes,Hindware,230.69,11,122
+551,HDPE Pipes,Astral Pipes,588.03,14,9
+552,Casing Pipes,Prince Pipes,842.98,11,103
+553,Duct Pipes,Ashirvad Pipes,276.59,9,136
+554,Casing Pipes,Supreme Industries Ltd.,380.27,5,6
+555,Pressure Pipes,Prince Pipes,808.04,6,139
+556,CPVC Pipes,Supreme Pipes,752.08,2,178
+557,CPVC Pipes,Ashirvad Pipes,593.93,10,169
+558,UPVC Pipes,Ashirvad Pipes,972.04,12,126
+559,UPVC Pipes,Apollo Pipes,531.45,3,34
+560,SWR Pipes,Prince Pipes,339.57,10,114
+561,Bathroom Accessories Pipes,Hindware,236.45,6,118
+562,Ball Valves,Prince Pipes,842.29,5,105
+563,Casing Pipes,Finolex Industries,368.13,12,163
+564,HDPE Pipes,Prince Pipes,801.09,5,136
+565,CPVC Pipes,Ashirvad Pipes,876.93,9,136
+566,Bathroom Accessories Pipes,Cera Sanitaryware Ltd.,111.17,12,104
+567,Suction Pipes,Finolex Industries,807.28,13,113
+568,Underground Pipes,Prince Pipes,220.06,9,105
+569,Ball Valves,Supreme Industries Ltd.,974.76,11,127
+570,Casing Pipes,Supreme Industries Ltd.,873.22,3,117
+571,Casing Pipes,Ashirvad Pipes,969.52,3,106
+572,Duct Pipes,Supreme Industries Ltd.,168.54,12,195
+573,Casing Pipes,Jain Irrigation Systems Ltd.,577.96,11,57
+574,UPVC Pipes,Prince Pipes,144.06,1,34
+575,HDPE Pipes,Prince Pipes,657.7,14,179
+576,Bathroom Accessories Pipes,Kohler India Corporation Pvt. Ltd.,887.77,4,83
+577,UPVC Pipes,Finolex Industries,916.15,1,144
+578,Suction Pipes,Jain Irrigation Systems Ltd.,411.89,5,141
+579,Underground Pipes,Supreme Industries Ltd.,422.96,11,154
+580,Duct Pipes,Finolex Industries,498.15,12,119
+581,Ball Valves,Finolex Industries,268.33,12,180
+582,PTMP Taps and Fittings Pipes,Jaquar Group,999.69,9,102
+583,Bathroom Accessories Pipes,Parryware,907.94,6,116
+584,HDPE Pipes,Supreme Industries Ltd.,121.36,3,52
+585,Steel Wire Reinforced Pipes,Prince Pipes,576.23,7,58
+586,CPVC Pipes,Astral Pipes,423.83,15,6
+587,UPVC Pipes,Ashirvad Pipes,344.93,12,60
+588,Flusing Cistern,Hindware,494.38,14,32
+589,Ball Valves,Finolex Industries,673.35,15,42
+590,SWR Pipes,Prince Pipes,890.9,3,19
+591,Steel Wire Reinforced Pipes,Prince Pipes,122.43,8,167
+592,Casing Pipes,Supreme Industries Ltd.,945.28,4,10
+593,HDPE Pipes,Jain Irrigation Systems Ltd.,157.11,10,134
+594,Underground Pipes,Jain Irrigation Systems Ltd.,632.26,8,166
+595,Riser Pipes,Cera Sanitaryware Ltd.,209.66,3,70
+596,Pressure Pipes,Supreme Industries Ltd.,744.34,13,64
+597,Riser Pipes,Kohler India Corporation Pvt. Ltd.,887.06,4,1
+598,Underground Pipes,Astral Pipes,886.24,15,16
+599,PTMP Taps and Fittings Pipes,Cera Sanitaryware Ltd.,969.68,6,131
+600,SWR Pipes,Astral Pipes,694.89,4,118
+601,PTMP Taps and Fittings Pipes,Kohler India Corporation Pvt. Ltd.,281.83,16,175
+602,PTMP Taps and Fittings Pipes,Hindware,594.74,11,200
+603,Bathroom Accessories Pipes,Cera Sanitaryware Ltd.,181.12,12,178
+604,Ball Valves,Ashirvad Pipes,595.58,12,160
+605,Steel Wire Reinforced Pipes,Jain Irrigation Systems Ltd.,888.4,12,106
+606,Casing Pipes,Prince Pipes,720.61,11,72
+607,PTMP Taps and Fittings Pipes,Kohler India Corporation Pvt. Ltd.,840.12,4,104
+608,PTMP Taps and Fittings Pipes,Jaquar Group,941.02,16,40
+609,Pressure Pipes,Finolex Industries,238.27,11,69
+610,Casing Pipes,Prince Pipes,657.39,9,85
+611,SWR Pipes,Prince Pipes,145.11,7,99
+612,Bathroom Accessories Pipes,Parryware,124.65,5,9
+613,Pressure Pipes,Jain Irrigation Systems Ltd.,421.91,6,74
+614,Pressure Pipes,Supreme Industries Ltd.,185.95,11,47
+615,Underground Pipes,Astral Pipes,936.79,8,100
+616,Steel Wire Reinforced Pipes,Ashirvad Pipes,776.08,14,62
+617,Steel Wire Reinforced Pipes,Jain Irrigation Systems Ltd.,840.39,1,17
+618,Suction Pipes,Ashirvad Pipes,173.16,14,141
+619,Flusing Cistern,Hindware,446.74,6,16
+620,SWR Pipes,Supreme Industries Ltd.,464.83,12,196
+621,Underground Pipes,Supreme Industries Ltd.,149.97,1,127
+622,Flusing Cistern,Kohler India Corporation Pvt. Ltd.,693.37,10,136
+623,Flusing Cistern,Jaquar Group,148.21,10,12
+624,Underground Pipes,Supreme Industries Ltd.,109.68,9,125
+625,UPVC Pipes,Supreme Pipes,261.84,3,100
+626,Flusing Cistern,Cera Sanitaryware Ltd.,528.53,7,120
+627,Duct Pipes,Jain Irrigation Systems Ltd.,314.45,10,107
+628,Pressure Pipes,Ashirvad Pipes,767.83,16,154
+629,Bathroom Accessories Pipes,Kohler India Corporation Pvt. Ltd.,445.34,2,145
+630,Ball Valves,Prince Pipes,198.14,8,170
+631,HDPE Pipes,Supreme Industries Ltd.,975.11,12,183
+632,Duct Pipes,Prince Pipes,726.52,4,93
+633,Suction Pipes,Jain Irrigation Systems Ltd.,102.92,8,155
+634,HDPE Pipes,Prince Pipes,727.63,16,23
+635,HDPE Pipes,Astral Pipes,203.53,7,99
+636,Suction Pipes,Jain Irrigation Systems Ltd.,516.23,5,70
+637,Riser Pipes,Jaquar Group,358.0,8,196
+638,Suction Pipes,Ashirvad Pipes,190.22,7,8
+639,Suction Pipes,Supreme Industries Ltd.,423.22,4,24
+640,Ball Valves,Finolex Industries,687.21,16,181
+641,Casing Pipes,Supreme Industries Ltd.,217.7,3,27
+642,UPVC Pipes,Apollo Pipes,870.79,12,141
+643,Flusing Cistern,Parryware,507.47,10,188
+644,Underground Pipes,Jain Irrigation Systems Ltd.,953.58,9,176
+645,PTMP Taps and Fittings Pipes,Jaquar Group,518.02,7,107
+646,Riser Pipes,Jaquar Group,904.99,8,180
+647,Suction Pipes,Supreme Industries Ltd.,520.6,1,21
+648,Suction Pipes,Prince Pipes,889.14,14,87
+649,Casing Pipes,Jain Irrigation Systems Ltd.,632.91,13,124
+650,Ball Valves,Ashirvad Pipes,755.37,5,96
+651,CPVC Pipes,Astral Pipes,303.34,7,7
+652,CPVC Pipes,Supreme Pipes,236.97,3,32
+653,Casing Pipes,Ashirvad Pipes,773.61,5,58
+654,CPVC Pipes,Ashirvad Pipes,536.61,12,29
+655,Suction Pipes,Finolex Industries,514.35,5,177
+656,Riser Pipes,Cera Sanitaryware Ltd.,724.25,1,89
+657,Pressure Pipes,Jain Irrigation Systems Ltd.,729.23,1,100
+658,Suction Pipes,Jain Irrigation Systems Ltd.,380.21,2,175
+659,Riser Pipes,Cera Sanitaryware Ltd.,327.57,12,26
+660,CPVC Pipes,Finolex Industries,121.15,4,86
+661,Ball Valves,Ashirvad Pipes,575.42,13,162
+662,Ball Valves,Astral Pipes,403.89,3,53
+663,CPVC Pipes,Prince Pipes,355.47,11,123
+664,Suction Pipes,Prince Pipes,612.61,8,111
+665,Riser Pipes,Kohler India Corporation Pvt. Ltd.,589.33,2,163
+666,Casing Pipes,Supreme Industries Ltd.,206.76,4,197
+667,Steel Wire Reinforced Pipes,Ashirvad Pipes,519.7,13,134
+668,Flusing Cistern,Hindware,185.71,10,45
+669,UPVC Pipes,Finolex Industries,966.18,4,34
+670,Flusing Cistern,Kohler India Corporation Pvt. Ltd.,803.38,13,76
+671,Riser Pipes,Jaquar Group,379.21,3,111
+672,Bathroom Accessories Pipes,Cera Sanitaryware Ltd.,787.62,1,70
+673,Casing Pipes,Ashirvad Pipes,336.95,11,32
+674,Duct Pipes,Prince Pipes,837.99,6,62
+675,Duct Pipes,Ashirvad Pipes,580.62,14,131
+676,Suction Pipes,Supreme Industries Ltd.,245.5,8,24
+677,Casing Pipes,Supreme Industries Ltd.,106.86,10,7
+678,Riser Pipes,Kohler India Corporation Pvt. Ltd.,218.24,5,82
+679,SWR Pipes,Astral Pipes,907.74,2,69
+680,Riser Pipes,Jaquar Group,381.51,14,68
+681,HDPE Pipes,Jain Irrigation Systems Ltd.,483.45,7,153
+682,Suction Pipes,Prince Pipes,299.88,6,158
+683,HDPE Pipes,Astral Pipes,819.45,13,179
+684,Underground Pipes,Prince Pipes,928.38,8,37
+685,CPVC Pipes,Prince Pipes,448.93,14,106
+686,Pressure Pipes,Finolex Industries,235.95,11,69
+687,Duct Pipes,Ashirvad Pipes,838.91,9,190
+688,CPVC Pipes,Prince Pipes,480.06,6,145
+689,Casing Pipes,Ashirvad Pipes,802.13,9,60
+690,HDPE Pipes,Supreme Industries Ltd.,913.09,8,97
+691,Riser Pipes,Kohler India Corporation Pvt. Ltd.,533.11,8,177
+692,Duct Pipes,Prince Pipes,406.76,15,142
+693,Ball Valves,Supreme Industries Ltd.,427.04,4,36
+694,Suction Pipes,Jain Irrigation Systems Ltd.,502.12,6,2
+695,Underground Pipes,Jain Irrigation Systems Ltd.,268.92,1,123
+696,PTMP Taps and Fittings Pipes,Jaquar Group,733.02,9,60
+697,Flusing Cistern,Kohler India Corporation Pvt. Ltd.,186.04,1,110
+698,HDPE Pipes,Supreme Industries Ltd.,324.86,5,37
+699,Flusing Cistern,Cera Sanitaryware Ltd.,833.18,5,195
+700,Riser Pipes,Jaquar Group,376.26,8,186
+701,CPVC Pipes,Astral Pipes,730.35,6,40
+702,SWR Pipes,Finolex Industries,793.21,16,111
+703,Pressure Pipes,Finolex Industries,522.85,1,127
+704,Steel Wire Reinforced Pipes,Supreme Industries Ltd.,845.63,8,114
+705,PTMP Taps and Fittings Pipes,Jaquar Group,289.52,10,64
+706,Riser Pipes,Kohler India Corporation Pvt. Ltd.,772.09,2,87
+707,Riser Pipes,Cera Sanitaryware Ltd.,744.96,5,61
+708,Casing Pipes,Ashirvad Pipes,585.51,1,180
+709,Underground Pipes,Prince Pipes,802.43,12,95
+710,Flusing Cistern,Parryware,728.97,1,93
+711,Steel Wire Reinforced Pipes,Supreme Industries Ltd.,569.89,6,153
+712,UPVC Pipes,Finolex Industries,789.39,1,15
+713,Flusing Cistern,Jaquar Group,778.01,12,80
+714,Pressure Pipes,Supreme Industries Ltd.,948.05,16,200
+715,Casing Pipes,Finolex Industries,453.86,14,85
+716,Riser Pipes,Cera Sanitaryware Ltd.,436.17,13,161
+717,SWR Pipes,Finolex Industries,364.1,14,146
+718,Pressure Pipes,Jain Irrigation Systems Ltd.,722.23,6,178
+719,PTMP Taps and Fittings Pipes,Hindware,287.16,1,170
+720,Riser Pipes,Cera Sanitaryware Ltd.,832.55,5,179
+721,PTMP Taps and Fittings Pipes,Hindware,522.71,3,124
+722,Riser Pipes,Jaquar Group,558.15,15,63
+723,Casing Pipes,Ashirvad Pipes,690.46,3,23
+724,Duct Pipes,Ashirvad Pipes,205.1,10,196
+725,Flusing Cistern,Parryware,669.24,5,5
+726,Steel Wire Reinforced Pipes,Supreme Industries Ltd.,248.72,6,168
+727,Underground Pipes,Finolex Industries,365.06,13,145
+728,Suction Pipes,Ashirvad Pipes,957.86,3,88
+729,Bathroom Accessories Pipes,Cera Sanitaryware Ltd.,243.01,1,146
+730,SWR Pipes,Supreme Industries Ltd.,477.07,2,47
+731,Steel Wire Reinforced Pipes,Prince Pipes,258.59,1,137
+732,Steel Wire Reinforced Pipes,Supreme Industries Ltd.,948.13,9,58
+733,Duct Pipes,Supreme Industries Ltd.,885.29,5,93
+734,Pressure Pipes,Prince Pipes,563.85,1,181
+735,UPVC Pipes,Apollo Pipes,971.78,14,99
+736,SWR Pipes,Astral Pipes,458.22,11,118
+737,HDPE Pipes,Finolex Industries,755.43,3,89
+738,PTMP Taps and Fittings Pipes,Parryware,578.64,8,148
+739,Pressure Pipes,Finolex Industries,473.93,15,164
+740,Ball Valves,Prince Pipes,779.15,16,62
+741,Casing Pipes,Finolex Industries,322.56,11,22
+742,Underground Pipes,Finolex Industries,813.23,14,101
+743,PTMP Taps and Fittings Pipes,Kohler India Corporation Pvt. Ltd.,485.74,8,68
+744,Underground Pipes,Supreme Industries Ltd.,504.88,9,37
+745,Steel Wire Reinforced Pipes,Supreme Industries Ltd.,746.93,6,90
+746,Riser Pipes,Cera Sanitaryware Ltd.,532.95,8,59
+747,Steel Wire Reinforced Pipes,Prince Pipes,372.37,7,70
+748,Underground Pipes,Jain Irrigation Systems Ltd.,395.3,7,162
+749,Steel Wire Reinforced Pipes,Jain Irrigation Systems Ltd.,609.73,13,109
