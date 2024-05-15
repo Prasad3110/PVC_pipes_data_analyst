@@ -21,7 +21,11 @@ A demonstration of Python, SQL, and Power BI integration for data analysis and v
 - Arranged visualizations on the dashboard canvas to provide insights into key metrics and trends.
 
 ## Setup Instructions
-- Instructions on how to set up and run the project, including dependencies and execution steps.
+1. *Clone the Repository:* git clone https://github.com/username/Raksha_Pipes_Business_Analyst.git
+2. *Install Dependencies:* pip install -r requirements.txt
+3. *Run Data Generation Script:https://github.com/Prasad3110/Raksha_pipes_business_analyst/tree/4a608db4697e84ee00b9f11a828a9ad517dcba07/data_generation
+4. *Setup MySQL Database:https://github.com/Prasad3110/Raksha_pipes_business_analyst/tree/4a608db4697e84ee00b9f11a828a9ad517dcba07/database_scripts
+5. *Open Power BI Dashboard:https://github.com/Prasad3110/Raksha_pipes_business_analyst/tree/4a608db4697e84ee00b9f11a828a9ad517dcba07/dashboard
 
 ## Presentation
 - A brief presentation summarizing the project's objectives, methodologies, and outcomes.
