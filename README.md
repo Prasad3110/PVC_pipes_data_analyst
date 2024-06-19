@@ -19,11 +19,5 @@ A demonstration of Python, SQL, and Power BI integration for data analysis and v
 - Imported necessary tables into PoerBI for analysis.
 - Designed visualizations like bar charts, line charts, and KPI cards to analayze key metrics and trends.
 - Arranged visualizations on the dashboard canvas to provide insights to stakeholders
-
-# Presentation
-- A brief presentation summarizing the project's objectives, methodologies, and outcomes.
-
-# Screenshots
-- Visual representations of the Power BI dashboard showcasing key visualizations and insights derived from the data.
   
 We hope this structured outline has been helpful in navigating the setup process and leveraging the insights derived from the Raksha Pipes dataset.
